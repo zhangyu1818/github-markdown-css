@@ -1,5 +1,5 @@
 {
-	"name": "github-markdown-css",
+	"name": "@zhangyu1818/github-markdown-css",
 	"version": "5.3.0",
 	"description": "The minimal amount of CSS to replicate the GitHub Markdown style",
 	"license": "MIT",
